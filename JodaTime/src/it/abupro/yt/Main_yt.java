@@ -2,9 +2,6 @@ package it.abupro.yt;
 
 import java.util.Scanner;
 
-import org.joda.time.*;
-import org.joda.time.format.DateTimeFormat;
-import org.joda.time.format.DateTimeFormatter;
 
 public class Main_yt {
 
