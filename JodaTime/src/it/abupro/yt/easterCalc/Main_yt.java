@@ -1,4 +1,4 @@
-package it.abupro.yt;
+package it.abupro.yt.easterCalc;
 
 import java.util.Scanner;
 
